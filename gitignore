@@ -1,0 +1,25 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# Build results
+[Bb]uild/
+[Nn]uGet/
+packages/
+*.dll
+*.exe
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Other generated files
+_ReSharper*/
+*.suo
+*.user
+*.sln.docstates
+*.bak
+
+# Ignore NuGet Packages
+*.nupkg
