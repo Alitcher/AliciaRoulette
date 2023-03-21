@@ -1,0 +1,16 @@
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.csproj.AssemblyReference.cache
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\MainWindow.g.cs
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\App.g.cs
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette_MarkupCompile.cache
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette_MarkupCompile.lref
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.exe
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.pdb
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\bin\Debug\Roulette.exe.config
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\bin\Debug\Roulette.exe
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\bin\Debug\Roulette.pdb
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\MainWindow.baml
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.g.resources
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.Properties.Resources.resources
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.csproj.GenerateResource.cache
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+D:\Somying's\Job\ADMISSION\intern\Playtech\WPFRoulette\Roulette\obj\Debug\Theme\RouletteTheme.baml
