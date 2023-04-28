@@ -51,7 +51,7 @@
                 
             </Viewbox>
             <Button x:Name="MyButton" Content="Random Winner!" HorizontalAlignment="Center" VerticalAlignment="Center" Click="MyButton_Click" Margin="0,816,0,38" Width="199" Height="38"/>
-            <Popup Name="winningPopup" IsOpen="False" Placement="Custom" CustomPopupPlacementCallback="PopupPlacementCallback">
+            <!--<Popup Name="winningPopup" IsOpen="False" Placement="Custom" CustomPopupPlacementCallback="PopupPlacementCallback">
                 <Border BorderBrush="Gray" BorderThickness="2" CornerRadius="5">
                     <Grid>
                         <Grid.RowDefinitions>
@@ -72,7 +72,7 @@
                         </Border>
                     </Grid>
                 </Border>
-            </Popup>
+            </Popup>-->
             <Grid x:Name="MainGrid1" Grid.Column="1" Margin="10,100">
                 <Viewbox Grid.Row="0">
                     <UniformGrid Name="NumberGrid" Grid.Row="0" Rows="3" Columns="4" Width="40" Height="45">

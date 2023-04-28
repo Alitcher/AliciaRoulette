@@ -11,7 +11,13 @@ public class RouletteTcpListener
 
     public async void StartListening()
     {
-        int port = 5000;
+        int port = 4948;
+
+        if (!IsPortAvailable(port))
+        {
+            return;
+        }
+
         TcpListener listener = new TcpListener(IPAddress.Any, port);
         listener.Start();
 
@@ -25,5 +31,24 @@ public class RouletteTcpListener
 
             OnDataReceived?.Invoke(this, rouletteData);
         }
+    }
+
+    public static bool IsPortAvailable(int port)
+    {
+        bool isAvailable = true;
+
+        try
+        {
+            using (TcpClient client = new TcpClient())
+            {
+                client.Connect(IPAddress.Loopback, port);
+            }
+        }
+        catch
+        {
+            isAvailable = false;
+        }
+
+        return isAvailable;
     }
 }
